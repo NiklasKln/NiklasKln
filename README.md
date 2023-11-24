@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NiklasKln, Data Science student from Germany.
-- 👀 I’m interested in AI, especially deep learning.
-- 🌱 I’m currently learning how to use Github ;)
+- 👋 Hi, I’m @NiklasKln, computer science student from Germany.
 - 📫 Contact me: info.niklasklein@gmail.com
 
 <!---
